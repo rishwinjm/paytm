@@ -1,0 +1,7 @@
+# Ignore the below files on commit
+# The bwlow ones are java related files
+.classppath
+.project
+#The below is angular related file
+./nodemodules
+
